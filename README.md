@@ -3,15 +3,10 @@
 Helps to translate a english educational content like video,audio and books to our native language audio,video and books.
 
 Frontend tools :
-HTML
-CSS
-BOOTSTRAP
+HTML, CSS, BOOTSTRAP
 
 Backend :
-Python
-Flask
-Nllb model
-
+Python, Flask, Nllb model
 
 # Steps to run a application :
 
