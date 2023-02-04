@@ -1,0 +1,14 @@
+SpeechRecognition
+pydub
+pytube3
+libroso
+torch
+transformers3
+keybert
+moviepy
+youtube-transcript-api
+multiprocessing
+unittest
+google
+gTTS
+ffmpeg
